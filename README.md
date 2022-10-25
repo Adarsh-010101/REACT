@@ -5,10 +5,10 @@
 ## Classes :
 ## Properties :
 ## Methods :
-###### The Spread & Rest Operator :
-###### Destructuring :
-###### Reference & Primitive type Refresher :
-###### Refreshing Array Functions :
-###### Wrap Up :
-###### JS Array Functions :
+## The Spread & Rest Operator :
+## Destructuring :
+## Reference & Primitive type Refresher :
+## Refreshing Array Functions :
+## Wrap Up :
+## JS Array Functions :
 
