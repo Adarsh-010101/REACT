@@ -11,4 +11,4 @@
 ## Refreshing Array Functions :
 ## Wrap Up :
 ## JS Array Functions :
-
+## React & Components Relationship :
