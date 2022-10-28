@@ -1,4 +1,4 @@
-# React Intro : 
+# JS with React
 ## Let & const :
 ## Arrow functions :
 ## Exports and Imports :
@@ -11,4 +11,8 @@
 ## Refreshing Array Functions :
 ## Wrap Up :
 ## JS Array Functions :
-## React & Components Relationship :
+### React & Components Relationship :
+### Creating and starting a new project in React :
+### JSX 
+### How React Works :
+### Building the fisrt Custom component :
