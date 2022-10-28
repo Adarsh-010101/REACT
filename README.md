@@ -11,8 +11,8 @@
 ## Refreshing Array Functions :
 ## Wrap Up :
 ## JS Array Functions :
-### React & Components Relationship :
-### Creating and starting a new project in React :
-### JSX 
-### How React Works :
-### Building the fisrt Custom component :
+## React & Components Relationship :
+## Creating and starting a new project in React :
+## JSX 
+## How React Works :
+## Building the fisrt Custom component :
