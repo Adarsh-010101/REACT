@@ -17,3 +17,7 @@
 ## How React Works :
 ## Building the fisrt Custom component :
 ## How to add CSS Styling in  react :
+## Expressions in JSX 
+## working with data in jsx
+## Adding data in "props" 
+## Adding JS logics to components 
