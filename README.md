@@ -1,7 +1,5 @@
-# JS with React
-ijiionkonioi ioi 
+# JS with React 
 ## Let & const :
-nib hjbhjb hjbhb 
 ## Arrow functions :
 ## Exports and Imports :
 ## Classes :
