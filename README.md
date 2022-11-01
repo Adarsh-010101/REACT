@@ -1,10 +1,10 @@
 ## What is REACT & why would  we use React ?
  - React : A javascript library for building user interfaces.
- - Using React   - Using  react makes  web apps feel very much highly interactive to the user. 
+ - Using React   - Using  react makes  web apps feel very much highly interactive to the user.
                  - App responds very instantly .
                  - React helps you not to wait for new pages to load or actions to start.
  - Without React - Whenever you click a link you have to wait for a new page to load & 
- - when you click a button then, you have to wait for some action to complete.
+                 - when you click a button then, you have to wait for some action to complete.
 
 ## Let & const :
 ## Arrow functions :
