@@ -14,7 +14,8 @@
    - React mainly helps to  split the application  into small builiding blocks / small components with all component having some clear task they offer codes    to  stay maintained and ,managable and react the library will do all the heavy lifting of rendereing something on screen and of combining all the codes.
     Provides higher level syntax that helps to write codes in a declartative-Component focused way. 
     
-## 
+## Building SPA's with React 
+    
 ## Let & const :
 ## Arrow functions :
 ## Exports and Imports :
