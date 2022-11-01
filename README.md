@@ -27,14 +27,7 @@
                                             
     
 ## Alternates to REACT.JS 
- - Angular.Js 
-   1)
-   2)
-   3)
- - Vue.Js
-   1)
-   2)
-   3)
+ - Angular.Js  &&   - Vue.Js
   
 ## Let & const :
 ## Arrow functions :
