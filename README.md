@@ -1,5 +1,5 @@
 ## What is REACT & why would  we use React ?
- - React : A javascript library for building user imterfaces.
+ - React : A javascript library for building user interfaces.
  - Using React   - Using  react makes  web apps feel very much highly interactive to the user. 
                  - App responds very instantly .
                  - React helps you not to wait for new pages to load or actions to start.
