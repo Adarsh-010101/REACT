@@ -39,7 +39,7 @@
 ## The Spread & Rest Operator :
 ## Destructuring :
 ## Reference & Primitive type Refresher :
-## Refreshing Array Functions :
+## Array Functions :
 ## Wrap Up :
 ## JS Array Functions :
 ## React & Components Relationship :
