@@ -30,18 +30,6 @@
  - Angular.Js  
  -  Vue.Js
   
-## Let & const :
-## Arrow functions :
-## Exports and Imports :
-## Classes :
-## Properties :
-## Methods :
-## The Spread & Rest Operator :
-## Destructuring :
-## Reference & Primitive type Refresher :
-## Array Functions :
-## Wrap Up :
-## JS Array Functions :
 ## React & Components Relationship :
 ## Creating and starting a new project in React :
 ## JSX 
