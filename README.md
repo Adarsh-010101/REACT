@@ -6,6 +6,11 @@
  - Without React - Whenever you click a link you have to wait for a new page to load & 
                  - when you click a button then, you have to wait for some action to complete.
 
+## What is React.js ?
+  - Client-side Javascript library
+  - Helps to build modern and reactive user interfaces for the web.
+  
+## Why React IF WE HAVE JAVASCRIPT ?
 ## Let & const :
 ## Arrow functions :
 ## Exports and Imports :
