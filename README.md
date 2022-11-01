@@ -16,7 +16,8 @@
     
   ##             Widget Approach                                                                     Single Page Application(SPA) Approach 
    - Using React to  control only parts of the html pages                                 - Using react to control the entire frontend of a web application.
-     or the entire page                                                  🆚                        
+     or the entire page                                             🆚 
+     
    -  In this Approach , some pages of a multi-page application                            - Server only sends one html page after that Raect 
      takes over and controls the UI .                                                        will still be rendered on and served by a backend server.
                                             
