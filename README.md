@@ -14,7 +14,13 @@
    - React mainly helps to  split the application  into small builiding blocks / small components with all component having some clear task they offer codes    to  stay maintained and ,managable and react the library will do all the heavy lifting of rendereing something on screen and of combining all the codes.
     Provides higher level syntax that helps to write codes in a declartative-Component focused way. 
     
-## Building SPA's with React 
+  ##             Widget Approach                                                                     Single Page Application(SPA) Approach 
+   - Using React to  control only parts of the html pages                                 - Using react to control the entire frontend of a web application.
+     or the entire page                                                  🆚                        
+   -  In this Approach , some pages of a multi-page application                            - Server only sends one html page after that Raect 
+     takes over and controls the UI .                                                        will still be rendered on and served by a backend server.
+                                            
+    
     
 ## Let & const :
 ## Arrow functions :
