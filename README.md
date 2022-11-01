@@ -26,7 +26,16 @@
      takes over and controls the UI .                                                        will still be rendered on and served by a backend server.
                                             
     
-    
+## Alternates to REACT.JS 
+ - Angular.Js 
+   1)
+   2)
+   3)
+ - Vue.Js
+   1)
+   2)
+   3)
+  
 ## Let & const :
 ## Arrow functions :
 ## Exports and Imports :
