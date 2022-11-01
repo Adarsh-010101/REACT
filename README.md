@@ -1,4 +1,5 @@
-# JS with React 
+## What is REACT & why would  we use React ?
+ - React : A javascript library for building user imterfaces.
 ## Let & const :
 ## Arrow functions :
 ## Exports and Imports :
