@@ -31,10 +31,20 @@
  -  Vue.Js
   
 ## React & Components Relationship :
+
+
 ## Creating and starting a new project in React :
+
+
 ## JSX 
+
+
 ## How React Works :
-## Building the fisrt Custom component :
+
+
+## Building the fisrt Custom component in REACT :
+
+
 ## How to add CSS Styling in  react :
 ## Expressions in JSX 
 ## working with data in jsx
