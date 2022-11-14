@@ -49,4 +49,4 @@
 ## Expressions in JSX 
 ## working with data in jsx
 ## Adding data in "props" 
-## Adding JS logics to components 
+## 
