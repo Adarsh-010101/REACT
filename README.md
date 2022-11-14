@@ -29,10 +29,15 @@
 ## Alternates to REACT.JS 
  - Angular.Js  
  -  Vue.Js
-  
-## React & Components Relationship :
 
+## React & Components Relationship :\\
 
+  -
+  -
+  -
+  -
+  -
+ 
 ## Creating and starting a new project in React :
 
 
