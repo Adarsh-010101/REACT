@@ -48,4 +48,3 @@
 ## How to add CSS Styling in  react :
 ## Expressions in JSX 
 ## working with data in jsx
-## Adding data 
