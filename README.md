@@ -40,13 +40,23 @@
  
 ## Creating and starting a new project in React :
 
+  -
+  -
+  -
+  -
+  -
 
-## JSX 
+
+## JSX :
+  -
+  -
+  -
+  -
+  -
+  
 
 
-## How React Works :
-
-
+## How React Works : 
 ## Building the fisrt Custom component in REACT :
 
 
