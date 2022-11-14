@@ -46,5 +46,3 @@
 
 
 ## How to add CSS Styling in  react :
-## Expressions in JSX 
-## w
