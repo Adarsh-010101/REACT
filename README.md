@@ -30,9 +30,9 @@
  - Angular.Js  
  -  Vue.Js
 
-## React & Components Relationship :\\
+## React & Components Relationship :
 
-  -
+  - 
   -
   -
   -
