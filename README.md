@@ -35,8 +35,7 @@
   - 
   -
   -
-  -
-  -
+  
  
 ## Creating and starting a new project in React :
 
