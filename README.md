@@ -33,8 +33,8 @@
 ## React & Components Relationship :
 
   - A Component is one of the core building blocks of React
-  -
-  -
+  - Every application you will develop in React will be made up of pieces called components
+  - 
   
  
 ## Creating and starting a new project in React :
