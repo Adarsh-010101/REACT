@@ -51,7 +51,6 @@
 ## How React Works : 
    -
    -
-   -
    
 ## Building the fisrt Custom component in REACT :
    -
