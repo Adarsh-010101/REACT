@@ -57,9 +57,7 @@
 ## Building the fisrt Custom component in REACT :
    -
    -
-   -
 
 ## How to add CSS Styling in  react :
-   -
    -
    -
