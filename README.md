@@ -32,7 +32,7 @@
 
 ## React & Components Relationship :
 
-  - 
+  - A Component is one of the core building blocks of React
   -
   -
   
