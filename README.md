@@ -47,7 +47,6 @@
 ## JSX :
   -
   -
-  -
 
 ## How React Works : 
    -
