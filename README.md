@@ -41,7 +41,8 @@
 
   -
 
-## JSX :
+## JSX :It is an JavaScript extension where we can embed valid JavaScript objects into HTML elements
+  - JSX is an JavaScript extension where we can embed valid JavaScript objects into HTML elements
   - JSX stands for JavaScript XML.
   - JSX allows us to write HTML in React. 
   - 
