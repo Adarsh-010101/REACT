@@ -45,7 +45,7 @@
   
 
 ## JSX :
-  -
+  - JSX stands for JavaScript XML.
   -
 
 ## How React Works : 
