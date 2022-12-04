@@ -46,7 +46,8 @@
 
 ## JSX :
   - JSX stands for JavaScript XML.
-  -
+  - JSX allows us to write HTML in React. 
+  -  
 
 ## How React Works : 
    -
