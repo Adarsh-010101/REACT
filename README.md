@@ -39,16 +39,17 @@
  
 ## Creating and starting a new project in React :
 
-  - 
   -
-  
-  
 
 ## JSX :
   - JSX stands for JavaScript XML.
   - JSX allows us to write HTML in React. 
+  - 
   -  
-
+## Difference between JS and JSX :
+   -
+   -
+   - 
 ## How React Works : 
    -
    -
