@@ -59,5 +59,3 @@
    -
 
 ## How to add CSS Styling in  react :
-   -
-   -
