@@ -50,7 +50,7 @@
 ## Difference between JS and JSX :
    - JS is simply a scripting language, adding functionality into your website. 
    &  JSX is an addition to the JavaScript syntax which is a mixture of both HTML and JavaScript.
-   -
+   - JS and JSX are interchangeable but JSX makes the code easier to understand for users. 
    
 ## How React Works : 
    -
