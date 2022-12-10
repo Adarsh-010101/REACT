@@ -55,6 +55,9 @@
    - JS and JSX are interchangeable but JSX makes the code easier to understand for users. 
    
 ## How React Works :
+ - 
+ - 
+ 
 
 
    
