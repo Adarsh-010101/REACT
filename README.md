@@ -55,7 +55,7 @@
    - JS and JSX are interchangeable but JSX makes the code easier to understand for users. 
    
 ## How React Works :
- - 
+ - React uses a declarative paradigm that makes it easier to reason about your application and aims to be both efficient and flexible
  - 
  
 
