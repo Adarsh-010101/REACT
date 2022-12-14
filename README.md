@@ -46,7 +46,6 @@
   - JSX stands for JavaScript XML.
   - JSX allows us to write HTML in React. 
   - 
-  -  
   
 ## Difference between JS and JSX :
    - JS is simply a scripting language, adding functionality into your website. 
