@@ -43,8 +43,7 @@
   - JSX is an JavaScript extension where we can embed valid JavaScript objects into HTML elements
   - JSX stands for JavaScript XML.
   - JSX allows us to write HTML in React. 
-  - 
-  
+
 ## Difference between JS and JSX :
    - JS is simply a scripting language, adding functionality into your website. 
    &  JSX is an addition to the JavaScript syntax which is a mixture of both HTML and JavaScript.
