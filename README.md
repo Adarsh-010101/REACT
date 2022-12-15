@@ -39,8 +39,6 @@
  
 ## Creating and starting a new project in React :
 
-  -
-
 ## JSX :It is an JavaScript extension where we can embed valid JavaScript objects into HTML elements
   - JSX is an JavaScript extension where we can embed valid JavaScript objects into HTML elements
   - JSX stands for JavaScript XML.
